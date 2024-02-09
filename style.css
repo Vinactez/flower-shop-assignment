@@ -56,3 +56,31 @@ body {
 
 /* Finished banner styles */
 
+
+.fetured-flowers h2{
+  color: #272727;
+font-size: 40px;
+font-weight: 800;
+width: 392px;
+height: 48px;
+margin-bottom: 24px;
+word-wrap: break-word;
+text-align: center;
+padding-left: 75px;
+}
+
+.fetured-flowers p{
+  color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+width: 594px;
+height: 60px;
+line-height: 30px;
+word-wrap: break-word;
+text-align: center;
+}
+
+
+.fetured-flowers{
+  padding: 178px 760px 0px 760px;
+}
